@@ -63,7 +63,7 @@ def play_note(note, beat):
     octave for a number of beats.
     Musical note in  a particular octave is a string value in upper case letter followed
     by the octave number.
-    Sharp and flat notes are represented by lower case 'b' and '#' respectively.
+    Sharp and flat notes are represented by '#' and lower case 'b' respectively.
     Duration of a beat depends on the bpm variable. Default bpm = 120
     
     To produce middle C for a beat:
